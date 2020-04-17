@@ -1,0 +1,11 @@
+@font-face
+{
+   font-family: "FiraSans";
+   src: url('assets/fonts/FiraSans-Regular.ttf') format('truetype');
+}
+
+* {
+    font-family: "FiraSans";
+    src: url('assets/fonts/FiraSans-Regular.ttf') format('truetype');
+    width: auto;
+}
