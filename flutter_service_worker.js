@@ -34,7 +34,7 @@ const RESOURCES = {
 "assets/images/img_wallpaper_CharlestonAzaleas.jpg": "26446bed39899d67391f9d3eb8b990f9",
 "assets/images/img_wallpaper_HimachalFalls.jpg": "8661dcb28a93838770de3bf65fe6f4a2",
 "assets/images/img_wallpaper_SpainBeeEaters.jpg": "ca9837dd98c040c5e5c1c818b2b57a53",
-"assets/AssetManifest.json": "1a5345a309a7e762f801a382f5a4a343",
+"assets/AssetManifest.json": "5c754dc7e1826601f34ef287a26803e7",
 "assets/FontManifest.json": "6ff2d56e480ec40fda849e020574df19",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "assets/packages/flutter_inappbrowser/t_rex_runner/t-rex.css": "5a8d0222407e388155d7d1395a75d5b9",
