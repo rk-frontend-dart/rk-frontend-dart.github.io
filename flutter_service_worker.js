@@ -10,7 +10,7 @@ const RESOURCES = {
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "32483f0ace2dfc18e9536a6a9494310d",
-"assets/LICENSE": "c465fb8e1dfe16d84187c7f1a08647db",
+"assets/LICENSE": "33c134bc646eae5c55a1bc29eb3cb3d0",
 "assets/images/img_flutterlogo.png": "3e20672ff0f68134b214fb4467dd6ba8",
 "assets/images/img_jasindo_partner.png": "44ec13e62d214a1ffb71adc948eeaa74",
 "assets/images/img_jasindo_logo.png": "3de039fbcd55391b009e19ca8a2c5592",
