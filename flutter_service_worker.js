@@ -1,16 +1,16 @@
 'use strict';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "index.html": "941f317d6c63053b5387618cdbfa3627",
-"/": "941f317d6c63053b5387618cdbfa3627",
-"main.dart.js": "890b36d0d8148b55566f5b98291484bc",
+  "index.html": "b76921f7096ca9292f45260bff3f6b7b",
+"/": "b76921f7096ca9292f45260bff3f6b7b",
+"main.dart.js": "cbf81cdfe29f2fa37fa1ae54a03c5b4d",
 "styles/base.css": "804ee9ffa3769d06d030012dbb9614bd",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/favicon.ico": "3de039fbcd55391b009e19ca8a2c5592",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "32483f0ace2dfc18e9536a6a9494310d",
-"assets/LICENSE": "33c134bc646eae5c55a1bc29eb3cb3d0",
+"assets/LICENSE": "8da9b4276d41f85a35f5a4f9ed429137",
 "assets/images/img_flutterlogo.png": "3e20672ff0f68134b214fb4467dd6ba8",
 "assets/images/img_jasindo_partner.png": "44ec13e62d214a1ffb71adc948eeaa74",
 "assets/images/img_jasindo_logo.png": "3de039fbcd55391b009e19ca8a2c5592",
